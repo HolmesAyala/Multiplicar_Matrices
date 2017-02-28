@@ -1,7 +1,5 @@
-
 package multiplicarmatrices;
 import java.util.Scanner;
-
 /**
  *
  * @author Anggy Arguello - Holmes Ayala
@@ -108,8 +106,6 @@ public class MultiplicarMatrices {
     }
     /**
      * Metodo que imprime el resultado
-     * 
-     * Aun con fallo al imprimir
      */
     private void imprimir(){
         System.out.print("La multiplicacion de las matrices A y B es una matriz C:");
